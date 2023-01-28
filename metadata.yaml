@@ -1,5 +1,8 @@
 _repo: Greek-primer-colloquial-and-constructive_69656
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69656-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackie, John Stuart
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48297
     wikipedia: https://en.wikipedia.org/wiki/John_Stuart_Blackie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69656#Greek-primer-colloquial-and-constructive
 gutenberg_issued: '2022-12-29'
 identifiers:
   gutenberg: '69656'
